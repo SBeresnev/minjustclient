@@ -14,9 +14,5 @@ public class Main {
 
         ArrayOfSubjectData ss = subj.getSubjectData(191430607);
 
-        //ArrayOfSubjectData aosd = ss.getSubjectData(191430607);
-
-         ArrayOfSubjectData aosd = subj.getSubjectDataName("сергей");
-
     }
 }
